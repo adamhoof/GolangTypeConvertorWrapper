@@ -1,4 +1,4 @@
-package TypeConvertor
+package pkg
 
 import (
 	"fmt"
